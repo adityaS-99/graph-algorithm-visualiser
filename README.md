@@ -14,7 +14,7 @@ A web app where you can interact with complex yet intuitive algorithms. You get 
   <ul>
     <li> Dijkstra's path finding algorihtm. </li>
     <li> A-Star path finding algorihtm. </li>
-    <li> Breadth First Search (BFS) traversal algorihtm. </li>
+    <li> Breadth First Search (BFS) traversal algorithm. </li>
     <li> Depth First Search (DFS) traversal algorithm. </li>
   </ul>
 </li>
